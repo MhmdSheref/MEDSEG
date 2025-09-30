@@ -5,16 +5,27 @@ A medical segmentation and visualization utility notebook for comparing the resu
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-### Brief
+## Brief
 This project was created by Cairo University Systems and Biomedical Engineering students under the strict deadline of 2 weeks.
 Its main goal is to accept CT input and return a segmentation of body organs using 3 different AI models as well as 3D visualization of the organs.
 We were also asked to evaluate the 3 AI models' accuracy.
 
 ## How to use
+
 Run the code blocks sequentially, giving input when asked to do so by widgets. **(This notebook is intended for use in a T4 GPU Runtime)**
 
 The notebook comes with a sample of CT scans taken from [TotalSegmentator](https://github.com/wasserth/TotalSegmentator/)'s [CT Dataset](https://zenodo.org/records/10047292). that can be used for testing and evaulation.
 
+## Contributors
+
+- [Mohamed Sheref](https://github.com/MhmdSheref)
+- [ِِAhmad Abdulqader](https://github.com/ahmadabdulqaderpersonal-sketch)
+- [Saif Mahmoud](https://github.com/saif-mahmoud770)
+- Saif Hegazy
+
+### Under the Supervision of
+- Prof. Dr. Tamer Basha
+- Eng. Alaa Tarek
 
 ## Features
 1. CT image viewer for reviewing the scan before segmentation
