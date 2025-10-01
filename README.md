@@ -21,7 +21,7 @@ The notebook comes with a sample of CT scans taken from [TotalSegmentator](https
 - [Mohamed Sheref](https://github.com/MhmdSheref)
 - [ِِAhmad Abdulqader](https://github.com/ahmadabdulqaderpersonal-sketch)
 - [Saif Mahmoud](https://github.com/saif-mahmoud770)
-- Saif Hegazy
+- [Saif Hegazy](https://github.com/Seif692006)
 
 ### Under the Supervision of
 - Prof. Dr. Tamer Basha
