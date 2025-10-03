@@ -46,6 +46,11 @@ The notebook comes with a sample of CT scans taken from [TotalSegmentator](https
      - Hausdorff Distance
 5. Visualization and analysis of the results.
 
+## Preview Images
+![Spine scan](assets/spine.png)
+![Liver scan side profile](assets/liver_side.png)
+![lung scan](assets/lung.png)
+
 
 ## Segmentation Comparison Results
 
@@ -105,12 +110,6 @@ The notebook comes with a sample of CT scans taken from [TotalSegmentator](https
 | vertebrae_T6                 |       0.989 |          0.930 |        0.000 |          0.977 |             0.869 |           0.000 |            1.000 |              72.284 |            42.532 |
 | vertebrae_T7                 |       0.988 |          0.941 |        0.040 |          0.976 |             0.889 |           0.021 |            1.000 |               3.464 |            31.591 |
 | vertebrae_T8                 |       0.990 |          0.954 |        0.000 |          0.980 |             0.912 |           0.000 |            1.000 |               2.449 |            45.706 |
-
-## Preview Images
-![Spine scan](assets/spine.png)
-![Liver scan side profile](assets/liver_side.png)
-![lung scan](assets/lung.png)
-
 
 ## Acknowledgements
 - TotalSegmentator:
